@@ -1,1 +1,2 @@
-print("hellow world")
+name = "Piyush"
+print(name.find("l"))
